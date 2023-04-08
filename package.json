@@ -1,0 +1,21 @@
+{
+  "name": "hand-writing-code",
+  "version": "1.0.0",
+  "description": "Practice coding",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quinn1026/hand-writing-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quinn1026/hand-writing-code/issues"
+  },
+  "homepage": "https://github.com/Quinn1026/hand-writing-code#readme"
+}
